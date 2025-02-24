@@ -23,10 +23,6 @@ List and briefly explain the phases of the Software Development Life Cycle.
 2.Design-building the framework 
 3.coding converting software design into tangible code 
 4.Testing- examine the software for any bugs and glitches 
-5.software Developer- developing applications,programming languages and frameworks 
-6.project manager- assembles and lead the software development team 
-7.Agile methodology-iterative and incremental,with multiple cycles (sprints)
-8.Waterfall methodology-linear and sequential each phase is completed before moving on there is low flexibility 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall methodology- linear and sequential each phase is completed before moving on there is flexibility
